@@ -26,7 +26,7 @@ Could it be that you want to know me better? *blushing* nice to meet you........
   <!-- WAKATIME -->
 
   <a href="https://github.com/WhoLeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=false&custom_title="Has been dying with"&langs_count=6&layout=compact&theme=jolly" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=false&custom_title='Had been dying with'&langs_count=6&layout=compact&theme=jolly" />
   </a>
 
  
