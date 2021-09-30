@@ -24,11 +24,11 @@ Could it be that you want to know me better? *blushing* nice to meet you........
 
 
   <!-- WAKATIME -->
-<!--
+
   <a href="https://github.com/WhoLeb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=true&langs_count=6&layout=compact&theme=shades-of-purple" />
   </a>
--->
+
 
 </div>
 
