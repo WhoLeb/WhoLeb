@@ -19,14 +19,14 @@ Could it be that you want to know me better? *blushing* nice to meet you........
 <div>
   <!-- TOP LANGUAGES -->
   <a href="https://github.com/WhoLeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=midnight-purple" />
   </a>
 
 
   <!-- WAKATIME -->
 
   <a href="https://github.com/WhoLeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=true&langs_count=6&layout=compact&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=true&langs_count=6&layout=compact&theme=midnight-purple" />
   </a>
 
  
