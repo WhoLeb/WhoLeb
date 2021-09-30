@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns:    
 - ⚡ Fun fact:    
 -->
-Could it be that you want to know me better? *blushing* nice to meet you         I'm Gleb 
+Could it be that you want to know me better? *blushing* nice to meet you....... I'm Gleb! Gleb Lyakh!
 
 <div>
   <!-- TOP LANGUAGES -->
-  <a href="https://github com/WhoLeb">
-    <img align="center" src="https://github-readme-stats vercel app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=jolly" />
+  <a href="https://github.com/WhoLeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=jolly" />
   </a>
 
 
   <!-- WAKATIME -->
 
-  <a href="https://github com/WhoLeb">
-    <img align="center" src="https://github-readme-stats vercel app/api/wakatime?username=WhoLeb&hide_title=false&custom_title=Have been dying with these for&langs_count=10&layout=compact&theme=jolly" />
+  <a href="https://github.com/WhoLeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=false&custom_title=Have been dying with these for&langs_count=10&layout=compact&theme=jolly" />
   </a>
 
  
@@ -108,6 +108,6 @@ Could it be that you want to know me better? *blushing* nice to meet you        
 *                                                                                                                      *
 
 
-My ideal goal is to become a pro gamedev, however as for now I am a computer science student in St Petersburg, Russia 
+My ideal goal is to become a pro gamedev, however as for now I am a computer science student in St Petersburg, Russia. 
 
-Nice to meet you, make yourself at home 
+Nice to meet you! make yourself at home! 
