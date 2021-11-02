@@ -35,7 +35,7 @@ Could it be that you want to know me better? *blushing* nice to meet you....... 
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img title="🇦 Github Stats 🇦"
              alt="🇦 WhoLeb's Github Stats 🇦"
-             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=WhoLeb&show_icons=true&count_private=true&bg_color=161B22&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_border=true"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=WhoLeb&show_icons=true&count_private=true&theme=monokai"
              height="192px"
             />
       </a>
