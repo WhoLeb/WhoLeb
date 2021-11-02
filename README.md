@@ -20,7 +20,7 @@ Could it be that you want to know me better? *blushing* nice to meet you....... 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🤡 Current streak 🤡"
          alt="🤡 My streak 🤡"
-         src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WhoLeb&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
+         src="https://github-readme-streak-stats.herokuapp.com?user=WhoLeb&theme=monokai&date_format=M%20j%5B%2C%20Y%5D"
          />
   </a>
   
