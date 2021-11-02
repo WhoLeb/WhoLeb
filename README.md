@@ -16,20 +16,42 @@ Here are some ideas to get you started:
 -->
 Could it be that you want to know me better? *blushing* nice to meet you....... I'm Gleb! Gleb Lyakh!
 
-<div>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🤡 Current streak 🤡"
+         alt="🤡 My streak 🤡"
+         src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WhoLeb&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"
+         />
+  </a>
+  
+<details> 
+<summary align="center">
+  <b>💻 GitHub Profile Stats 💻</b>
+</summary>
+  
+</br>
+
+  <div align="center">  
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img title="🇦 Github Stats 🇦"
+             alt="🇦 WhoLeb's Github Stats 🇦"
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=WhoLeb&show_icons=true&count_private=true&bg_color=161B22&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_border=true"
+             height="192px"
+            />
+      </a>
+  </br>
   <!-- TOP LANGUAGES -->
   <a href="https://github.com/WhoLeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=jolly" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoLeb&card_width=300&langs_count=10&layout=compact&theme=monokai" />
   </a>
 
 
   <!-- WAKATIME -->
 
   <a href="https://github.com/WhoLeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=false&custom_title=Have been dying with these for&langs_count=10&layout=compact&theme=jolly" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WhoLeb&hide_title=false&langs_count=10&layout=compact&theme=monokai" />
   </a>
-
- 
+ </details>
 </div>
 
 ``` diff
