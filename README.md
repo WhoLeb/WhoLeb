@@ -129,7 +129,7 @@ Could it be that you want to know me better? *blushing* nice to meet you....... 
 *                                                                  :/:                                                 *
 *                                                                                                                      *
 
-
+```
 My ideal goal is to become a pro gamedev, however as for now I am a computer science student in St Petersburg, Russia. 
 
 Nice to meet you! make yourself at home! 
