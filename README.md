@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 <p> In a matter of weeks I am thinking about creating a personal website so follow along if you want to see it. </p>
 <br><br>
 <p> <b>Contact information:</b> <br> 
-  <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br> 
+  <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br>
+  <b>Mail</b> gleb_lyah@mail.ru / gslyakh@stud.etu.ru <br>
   <b>Telegram</b> @WhoLeb <br> 
   <b>Twitter/instagram</b> @WhoLeb7 <br> 
   <b>Discord</b> WhoLeb#9349 
