@@ -59,4 +59,9 @@ Here are some ideas to get you started:
 <p> I intend to be a game/game engine developer even though you can't find many graphics programming projects so far. </p>
 <p> In a matter of weeks I am thinking about creating a personal website so follow along if you want to see it. </p>
 <br><br>
-<p> Contact information: <br> Phone +7(921)644-22-72 - (telegram/whatsapp) <br> Telegram @WhoLeb <br> Twitter/instagram @WhoLeb7 <br> Discord WhoLeb#9349 </p>
+<p> <b>Contact information:</b> <br> 
+  <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br> 
+  <b>Telegram</b> @WhoLeb <br> 
+  <b>Twitter/instagram</b> @WhoLeb7 <br> 
+  <b>Discord</b> WhoLeb#9349 
+</p>
