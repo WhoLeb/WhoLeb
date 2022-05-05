@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns:    
 - ⚡ Fun fact:    
 -->
-Could it be that you want to know me better? *blushing* nice to meet you....... I'm Gleb! Gleb Lyakh!
+
+<h3>Down here you can see my stats:</h3>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -53,83 +54,9 @@ Could it be that you want to know me better? *blushing* nice to meet you....... 
   </a>
  </details>
 </div>
-
-``` diff
-
-*                                                                                                                      *
-*                                                                                                                      *
-*                                                      -----                                                           *
-*                                                        -:+oso+/-                                                     *
-*                            ---                            -+ssss/                          -                         *
-*                            :::::          -  --    --:::::- -/sss/ /ooso+/-             -::/                         *
-*                             /::::      --    -:/++ooooooossssssssoosy+/:- -::         -:::/                          *
-*                             ::::/    --  :/+oosssssssssssssssssssssssso/-             /:::-                          *
-*                            -////::  - :+ossssooooossssssssssssssssssssssso/:          //::/                          *
-*                           -+///+/- :/ossssssssssssssssssssssssssyssssssssssso: --     +/////-                        *
-*                          :++++++/-+ssssssssssssssssssssssssssssssyyssssssssyyso:  -   +++++/+-                       *
-*                        -+oooooo+/ossosssssssssssssssssssssssssssssssyssssssssyyso- -  /ooo+++o-                      *
-*                       :ssssssssoossosssssssssyssssossssssssssssssssssyssssssssssss/ - -osooooo+                      *
-*                      :yyhyyyyysosssyyyssysssyysssssssssssssssyssssssssysssssyysssss/ --ssssssss:                     *
-*                     -shhhhyyysssssyyyyyyyssyyyyyyssyyyysssyyssyyyysssyyysssyyyyyshss/-+yyyyyyyy/                     *
-*                    -+hhhhhhhyssysyyyyyyyssyyyyyyhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysyyssshhhhyyyyyo              --     *
-*                     /ddhyyyyhyysyyyyyyysssyyyyyyyyhyyyyyyyyyyyyyyyyyyyyyhyyyhhhhyyhhddddhhhhhhy+        --------     *
-*                     -hddddddyyyyyyyyhyyssysyyssooyhyyhhhyyhhyyyhyyyyyyyyyhyhhhhhhyhmdddddddhhhy/        ------::-    *
-*                      odddmdysysssyyhhysshsssyso-/yhyyyhhyyyhyhyhyyyyyyyyyhyyyyhhhyydmmmddddddho          -::::::-    *
-*                       ydmdyysyssssyyhyyhys+oss/:+yyyyyyyysyyyhsysyhyyysyyyysssyyhyyhmmmmmdddho-         -::::::::-   *
-*                       :odydsyhssssssyshhss:yyo:--oshsssssyyssyys-/hhyhyyyyhssssyyyyhhmmmmmdh+           -:/:////:-   *
-*                       - +ydsyyssssssssdhs: os/```-syyyysssyyy+y/  -oossyyydysssyssshymmmmho-           -/////////-   *
-*                       : /o:shhssssyssydy+--/s/::- /sysyyyssys:o- -:///:/++sysssyyssdydddds-            ://///////-   *
-*                        -:s-oyhsshsyysshsssyhddddhy/-://oshyss/:+shhhhddys//yysyhyyydyyyyyyo-    -:    -:////////:-   *
-*                          +++ydssyyyhyyyhds+/shhdhhy/ ` :o+///////sydhyhoyhhyhyyhyyhdyyyyyhyso//+:    -:/++++//++:-   *
-*                        :  +oyhhshdyhdhyy+:--+s++/o/ ```   ````  -o///oo:/oyydyydyyhyyyhyyyo/+o/-    -/++++++++++:    *
-*                       :+   -ohdyyh+shdhyo:::/--   ``````````````  /o+///osyddyyhyysyyyhyyyy:      -:/+o++++++++/-    *
-*                     + os:---sdmdhyo/++yyysso-    ``````` ```````   ///+sysydyysyys/hyyhyys/s    -:++oooo+++o+++:     *
-*                     +ooysssshdhdd++/:-:sooso+/-  ````````````````   /++++oso/+oss+shyyyyyo o: -:+ossoooooooooo/-     *
-*                      :+ooo++hdyys--    /+/+--   ``````````````````    ---/// :::/hdyyhyys/-os+ossssssoooooooso:      *
-*                           -shdyy: -      -:-  ```````         `````    --:-    - odyhhyyo/ohhyyyyyyyssoooooso+-      *
-*                          -syddys-            -- `````      ```````` ---       -- -shdyhhsyhdyysyyyyyyyysssso/-       *
-*                         -syyyhyys+:       ```` -- ````````````````--            -/hmdddyhdhhyyyssyyhhhyyyys/-        *
-*                    -  ::ss+yohyyyyyy+:       ``` : ````````````` -            -+ydmmmmdhhyhhhhhyyyyyhhhhys/-         *
-*                  :+:/o+/y//y+yyyyyhhddy+-         :````````````  :         :+ydmmmmmmmhyssyhdddhhhhhhhys/-           *
-*                 /ooos/ /y--yyyyyyysydhsoo/-       /           -:/:       :ydmmmhhdddmmdhhhyhhhddddddhs/-             *
-*                -oyss+  -o/-syyyyyo/+dyoooo-       o++/----:/+osss-       smmmmmsoosssyhdddddhdmddhdmo-               *
-*           --   /syss:   -oosyyys+- -dyoooo        sooooooossooooo/ ````` /mmmmmsoooo:--+dmmmmmhysydd:                *
-*          -+-   /ssss+-  :syhhys/ ```hs+oo/    `` -ooooooooooooooo+ `````` dmmdmyo+/-    :dmmdhyyhmd+ /               *
-*        : :/    -osssysossyydyy+-````yo -+   `````/oooooooooooooooo ```````ommmmy/-````  /+mmmmmmmh+:/s-              *
-*        +-/+     :sssyyyyyy+yys:`````ss``:  ``````+oooooooooooooooo ``````` hmdhs ``````/:-dmmmmmmdhdh+               *
-*        ++/s/-    /syyyyhys/yys:`````+s` : ```````+ooooooooooooooos ``````` /soyy/-    :+--ddmmmmmmds:                *
-*        +ssyyo+/:::+yhhhdyy/+yy:`````:h :  ```````+oossoooooooossss-```````` o yyyysooo/--:ddmmmmmmddy/-              *
-*        -+osyyyyyyyyyyhdmdoo/+so ```` h:: ````````/-:/+oooooossssss-```````` /-y::+++/:-- smmmmyydmdddds:             *
-*         -/syyyyyhhyyhddhh:-::-//:: ``ss: ````````/``  -:/++ooooo+o-````````` oo ``       dmmmmy//yddddds-            *
-*      -:+ossyhddhyyyyddhyhs   ``   ```+y `````````/```````  --:-- :-````````` /: ``````  ommmmmmdy/odddds:            *
-*    :+yhhhhhhddhyyyyhmddddd:  ```````` o ```````` /```````````````:-`````````` +/:- ``` :dmmmmmmmmdoyddys/            *
-*   +yyhhhhsohhyssyyyhmmmmmmy-  ```````--````````` /```````````````:-`````````` /++oo+:- ymmmmmmmmmddhhyso//+:         *
-*  /yhhhhho/yhysssyyyhmmmmmmms- `````` : ````````` /```````````````: ``````````  : --:+sommmmmmmmmddhyyso-  :so-       *
-*  +hhhhhy:ohhsssyyyyhdmmmmmmmo- `````/ `````````` /```````    ``` : ``````````` :    -:ymmmmmmmmddhhyo/-    :so       *
-*  +yyyyhy/yhysssyysyhdmmmmmmmd:  ```--````````````/ ``````   :-:/os ```````````  :    -hmmmmmmmmmdddy//osso- /s-      *
-*  +yy//yhshhysssyhssyhdmmmmmmmy-  ` :  ```````````:- ````` -  /yddy ```````````  :-   /mmmmmmmmmdddd/--:/+os/o+       *
-*  /yy/ /yhhhysssyhyyyyhddmmmmmm:    - ````````````-/  ````     -/+o ````````````  :  -smmmmmmmmmddddo:- -:/sy/        *
-*  -+ys: -+yhysssshdhhhhhdmmmmmms   -  ```````````` yo/:-   -  ::+yy ````````````` :- :dmmmmmmmmdmmdddhyyyhyos/        *
-*    /ss/  :yhhsssshhdddddmmmmmdh:  :  ```````````  yyyyyso++/:-::/s `````````````  : smmmmmmmmdddddddhhhhhsyh+        *
-*     -://:-/shyyyyyyyhhdddmmmhyys- : ````````````  yhhhhhhhhhhhhhhh `````````` ``  ::dmmmmmmmmdyhdddhhhhhhhhhs/:      *
-*          -  /ohhhhhhdddddddhyyyy+:-  ``````````` -dhhhhddddddddddm ``````````+``  :smmmmmmmddhyyhhhhhhhhhyhhhyys+:   *
-*              -yhhh:/oydhhdhyyyyyo/:  ``````````` +mdddddddmmmmmmmm ``````````o-   /mmmmmmmdddyssyyy+shhhyo+syyyo+o+- *
-*              /hhhh- /y/-oyhyyho- //  ``````````  hmmmmmmdmmmmmmmmm- `````````/y/--hmmmmmdddhyssssss:-ohhhs--+yyy+-:+-*
-*            -+yhhhy-/h/ :yyhyyh-   /-  ````````` -soo++/:   ---/+os: ``````````/yyyddddhhyyyssssssso- :yhhs:  :oyy/-+-*
-*    -   --/oyyhhhh+/ho  /yyyyyyo-   /:  ```````` :                 /  ```````-  -osyyyyyyyyyyssssss+  :yhy+--  -syo:: *
-*    -:/osyyyyhhhho:yh/  -yyyyhyys/-  ::-  ````` ::                 :-  ``````/:-:- -://++osysssssso///shys/:    +yo:  *
-*        -::/syyo:-+sh+   /yyyhhyyyys+:-::-      +                   /-       -oso+//++ossyssssoo+/ ::+syo:-    -ss:   *
-*         :://:-   ++hh+:--/syyyyyyyyyyyysyo//::/:              -/+ossyyyyssssssshyyyyyyyysso/      -:::-      -+o:    *
-*                  :/ohhdhhyyddhhhyyyyyso+++++osso+/-         /syyyhyyyyyyyyyhyhhhhyyyyyy+-                  -::-      *
-*                     -:/+oooo+/:---            /syyyo--    -sys+oyhyyyyyyyyhyysso++//syo                              *
-*                                                 oyyh/ -   oy:-syyys+/:--:::::::::-  oyo                              *
-*                                                 shhy+-    :o-oyy/                   -+so:                            *
-*                                                +hhho        -+ys-                      -////                         *
-*                                            -::/o+/-           :oy/                                                   *
-*                                                                  :/:                                                 *
-*                                                                                                                      *
-
-```
-My ideal goal is to become a pro gamedev, however as for now I am a computer science student in St Petersburg, Russia. 
-
-Nice to meet you! make yourself at home! 
+<hr>
+<p> Hi! Nice to meet you! I am a c++ developer. Currently unemployed and here you can find most projects that I've been working on.</p>
+<p> I intend to be a game/game engine developer even though you can't find many graphics programming projects so far. </p>
+<p> In a matter of weeks I am thinking about creating a personal website so follow along if you want to see it. </p>
+<br><br>
+<p> Contact information: <br> Phone +7(921)644-22-72 - (telegram/whatsapp) <br> Telegram @WhoLeb <br> Twitter/instagram @WhoLeb7 <br> Discord WhoLeb#9349 </p>
