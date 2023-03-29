@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 <hr>
 <p> Hi! Nice to meet you! I am a c++ developer. Currently unemployed and here you can find most projects that I've been working on.</p>
 <p> I intend to be a game/game engine developer even though you can't find many graphics programming projects so far. </p>
-<p> In a matter of weeks I am thinking about creating a personal website so follow along if you want to see it. </p>
 <br><br>
 <p> <b>Contact information:</b> <br> 
   <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br>
