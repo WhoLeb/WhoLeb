@@ -55,8 +55,9 @@ Here are some ideas to get you started:
  </details>
 </div>
 <hr>
-<p> Hi! Nice to meet you! I am a c++ developer. Currently unemployed and here you can find most projects that I've been working on.</p>
+<p> Hi! Nice to meet you! I am a c++ developer. Currently an intern at <a href="https://gs-labs.ru">GS Labs</a> and here you can find most projects that I've been working on.</p>
 <p> I intend to be a game/game engine developer even though you can't find many graphics programming projects so far. </p>
+<p> You may see that I don't have many contributions lately, that's because I mostly do all the contributions to my working git on gitlab, thus nothing on github. </p>
 <br><br>
 <p> <b>Contact information:</b> <br> 
   <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br>
