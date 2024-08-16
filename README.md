@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <p> Hi! Nice to meet you! I am a c++ developer. Here you can find most projects that I've been working on.</p>
-<p> I intend to be a game/game engine developer even though you can't find many graphics programming projects so far. </p>
 <p> You may see that I don't have many contributions lately, well that's because I mostly commit to local/private repos. </p>
 <br><br>
 <p> <b>Contact information:</b> <br> 
