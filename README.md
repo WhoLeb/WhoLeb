@@ -55,13 +55,11 @@ Here are some ideas to get you started:
  </details>
 </div>
 <hr>
-<p> Hi! Nice to meet you! I am a c++ developer. Here you can find most projects that I've been working on.</p>
-<p> You may see that I don't have many contributions lately, well that's because I mostly commit to local/private repos. </p>
+<p> Hi! Nice to meet you! I am a c++ game engine and graphics developer. Here you can find most projects that I've been working on.</p>
 <br><br>
 <p> <b>Contact information:</b> <br> 
   <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br>
-  <b>Mail</b> gleb_lyah@mail.ru / gslyakh@stud.etu.ru <br>
+  <b>Mail</b> gleb_lyah@mail.ru / tgvmirrison@gmail.com <br>
   <b>Telegram</b> @WhoLeb <br> 
-  <b>Twitter/instagram</b> @WhoLeb7 <br> 
   <b>Discord</b> WhoLeb#9349 
 </p>
