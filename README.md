@@ -61,5 +61,5 @@ Here are some ideas to get you started:
   <b>Phone</b> +7(921)644-22-72 - (telegram/whatsapp) <br>
   <b>Mail</b> gleb_lyah@mail.ru / tgvmirrison@gmail.com <br>
   <b>Telegram</b> @WhoLeb <br> 
-  <b>Discord</b> WhoLeb#9349 
+  <b>Discord</b> WhoLeb
 </p>
